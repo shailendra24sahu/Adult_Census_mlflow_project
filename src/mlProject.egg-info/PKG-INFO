@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/shailendra24sahu/Adult_Census_mlflow_project
+Author: shailendra24sahu
+Author-email: sahushailendrakumar053@gmail.com
+Project-URL: Bug Tracker, https://github.com/shailendra24sahu/Adult_Census_mlflow_project/issues
+
+# Adult_Census_mlflow_project
+
+conda create -p venv python==3.10
+conda activate venv/
+
+pip install mlflow
+
+pip install -r requirements.txt
